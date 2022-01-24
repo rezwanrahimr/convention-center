@@ -1,0 +1,20 @@
+.package-color {
+    color: rgb(237 235 248);
+    border-radius: 50%;
+}
+
+.package-text-color {
+    color: #848199;
+}
+
+.package-button-color {
+    background-color: #fdf4fa;
+}
+
+.package-bg-color {
+    background-color: rgb(63 135 245);
+}
+
+.card-radius {
+    border-radius: 30px;
+}
