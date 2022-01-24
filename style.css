@@ -18,3 +18,19 @@
 .card-radius {
     border-radius: 30px;
 }
+
+.ask-img {
+    width: 95%;
+}
+
+.footer-bg-color {
+    background-color: #0B0D17;
+}
+
+.footer-margin {
+    margin-left: 300px;
+}
+
+.footer-margin-copyright {
+    margin-left: 100px;
+}
