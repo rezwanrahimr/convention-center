@@ -1,3 +1,11 @@
+        /*......................
+         our package
+          ....................*/
+        
+        .package-section {
+            margin-top: 100px;
+        }
+        
         .package-color {
             color: rgb(237 235 248);
             border-radius: 50%;
@@ -19,26 +27,43 @@
             border-radius: 30px;
         }
         
-        .ask-img {
+        .hot {
+            background-color: red;
+            padding: 0px 10px;
+            border-radius: 15px;
+            position: absolute;
+            left: 200px;
+            top: -10px;
+        }
+        /*..................................
+         Frequently Asked Questions
+         ................................ */
+        
+        .questions-titel {
+            margin: 100px 0px;
+        }
+        
+        .Questions-section-img {
             width: 95%;
             margin-top: 10px;
         }
+        /* ...............................
+        Footer section
+        ............................... */
         
         .footer-bg-color {
             background-color: #0B0D17;
         }
-        
-        .footer-margin {
-            margin-left: 300px;
-        }
-        
-        .footer-margin-copyright {
-            margin-left: 100px;
-        }
+        /* ...........................
+        Bonus section
+        ............................ */
         
         .bonus-section {
             margin-top: 150px;
         }
+        /* ..................................
+        Every moment is Precious section
+        .................................... */
         
         .wedding-img {
             width: 85%;
@@ -47,21 +72,4 @@
         .moment-section {
             margin-top: 100px;
             margin-bottom: 100px;
-        }
-        
-        .package-section {
-            margin-top: 100px;
-        }
-        
-        .questions-titel {
-            margin: 100px 0px;
-        }
-        
-        .hot {
-            background-color: red;
-            padding: 0px 10px;
-            border-radius: 15px;
-            position: absolute;
-            left: 200px;
-            top: -10px;
         }
