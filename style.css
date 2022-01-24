@@ -1,36 +1,67 @@
-.package-color {
-    color: rgb(237 235 248);
-    border-radius: 50%;
-}
-
-.package-text-color {
-    color: #848199;
-}
-
-.package-button-color {
-    background-color: #fdf4fa;
-}
-
-.package-bg-color {
-    background-color: rgb(63 135 245);
-}
-
-.card-radius {
-    border-radius: 30px;
-}
-
-.ask-img {
-    width: 95%;
-}
-
-.footer-bg-color {
-    background-color: #0B0D17;
-}
-
-.footer-margin {
-    margin-left: 300px;
-}
-
-.footer-margin-copyright {
-    margin-left: 100px;
-}
+        .package-color {
+            color: rgb(237 235 248);
+            border-radius: 50%;
+        }
+        
+        .package-text-color {
+            color: #848199;
+        }
+        
+        .package-button-color {
+            background-color: #fdf4fa;
+        }
+        
+        .package-bg-color {
+            background-color: rgb(63 135 245);
+        }
+        
+        .card-radius {
+            border-radius: 30px;
+        }
+        
+        .ask-img {
+            width: 95%;
+            margin-top: 10px;
+        }
+        
+        .footer-bg-color {
+            background-color: #0B0D17;
+        }
+        
+        .footer-margin {
+            margin-left: 300px;
+        }
+        
+        .footer-margin-copyright {
+            margin-left: 100px;
+        }
+        
+        .bonus-section {
+            margin-top: 150px;
+        }
+        
+        .wedding-img {
+            width: 85%;
+        }
+        
+        .moment-section {
+            margin-top: 100px;
+            margin-bottom: 100px;
+        }
+        
+        .package-section {
+            margin-top: 100px;
+        }
+        
+        .questions-titel {
+            margin: 100px 0px;
+        }
+        
+        .hot {
+            background-color: red;
+            padding: 0px 10px;
+            border-radius: 15px;
+            position: absolute;
+            left: 200px;
+            top: -10px;
+        }
